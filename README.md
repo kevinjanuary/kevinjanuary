@@ -1,4 +1,5 @@
 ### 👋 Hi, I’m Kevin
+
 - 👨‍💻 Currently mostly into webapps.
 - 🌏 I'm based in Indonesia 🇮🇩
 - 🏫 Student @ [Esa Unggul University](https://www.esaunggul.ac.id/)
@@ -6,10 +7,12 @@
 - 🧑‍🏫 "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 #### 📚 Learning Wishlist
+
 - Mastering GraphQL because why not bend the data to my will!
 - Dabbling in machine learning – because coding should feel like magic, right?
 
 #### 🧰 Favorite Tech Toolbox
+
 <div style="display: flex;">
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
