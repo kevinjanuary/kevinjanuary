@@ -48,9 +48,10 @@ export default function Home() {
               key={s.label}
               href={s.href}
               target="_blank"
-              className="relative z-10 flex items-center justify-center w-12 h-12 text-sm duration-1000 border rounded-full text-zinc-400 hover:text-white hover:bg-zinc-900 border-zinc-500 bg-zinc-900 hover:border-zinc-200 drop-shadow-orange"
+              className="relative z-10 flex items-center justify-center px-5 h-12 gap-2 text-sm duration-1000 border rounded-full text-zinc-400 hover:text-white hover:bg-zinc-900 border-zinc-500 bg-zinc-900 hover:border-zinc-200 drop-shadow-orange"
             >
-              {s.icon}
+              <span>{s.icon}</span>
+              <span>{s.label}</span>
             </Link>
           ))}
         </ul>
